@@ -35,5 +35,5 @@ Working with unencrypted public radio frequencies (AIS) presents unique data val
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/national-air-sea-radar.git](https://github.com/yourusername/national-air-sea-radar.git)
+   git clone [https://github.com/Ullas33/National-Air-Sea-Radar.git]
    cd national-air-sea-radar
